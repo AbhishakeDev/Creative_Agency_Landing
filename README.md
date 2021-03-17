@@ -1,3 +1,6 @@
+# Link to the deployed version of the website
+Open [https://creative-agencyl.netlify.app/](https://creative-agencyl.netlify.app/)
+
 # Creative Agency Website
 
 > Simple HTML/CSS website from the [YouTube tutorial project](https://www.youtube.com/watch?v=lvYnfMOUOJY&t=274s)
